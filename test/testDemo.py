@@ -1,5 +1,5 @@
 
-from automationcodejiang.login.main import test
+from selenium001.login.main import test
 
 
 class Test:
